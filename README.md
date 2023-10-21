@@ -6,7 +6,7 @@ Web developer
 
 * 🌍  I'm based in Yekaterinburg
 * ✉️  You can contact me at [andromed-ku@yandex.ru](mailto:andromed-ku@yandex.ru)
-* 🚀  I'm currently working on [blogs](http://https://github.com/Pikhto/blogs)
+* 🚀  I'm currently working on [blogs](https://github.com/Pikhto/blogs)
 * 🧠  I'm learning Flask
 
 ### Skills
